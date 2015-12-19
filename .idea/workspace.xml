@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a904d7-0b49-4fe1-b45f-a6542bce2556" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__raddit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__raddit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__raddit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__raddit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/bcrypt_ext.bundle" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/bcrypt_ext.bundle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/lib/bcrypt_ext.bundle" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/lib/bcrypt_ext.bundle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/bcrypt_ext.o" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/bcrypt_ext.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/crypt.o" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/crypt.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/crypt_blowfish.o" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/crypt_blowfish.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/crypt_gensalt.o" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/crypt_gensalt.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/wrapper.o" afterPath="$PROJECT_DIR$/vendor/bundle/ruby/2.0.0/gems/bcrypt-3.1.10/ext/mri/wrapper.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/links/index.html.erb" afterPath="$PROJECT_DIR$/app/views/links/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/raddit.iml" afterPath="$PROJECT_DIR$/.idea/raddit.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/link.rb" afterPath="$PROJECT_DIR$/app/models/link.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
     </list>
     <ignored path="raddit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/links/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32046014">
+            <state vertical-scroll-proportion="-16.25">
               <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
@@ -110,17 +92,17 @@
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="link.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="link.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/link.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.012087027">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -159,9 +141,9 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/links_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/link.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/app/views/links/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/models/link.rb" />
       </list>
     </option>
   </component>
@@ -532,22 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/link.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
@@ -558,8 +524,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/links/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32046014">
+        <state vertical-scroll-proportion="-16.25">
           <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/link.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.012087027">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
           <folding />
         </state>
       </provider>
