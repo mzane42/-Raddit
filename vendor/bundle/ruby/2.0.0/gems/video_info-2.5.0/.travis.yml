@@ -1,0 +1,10 @@
+language: ruby
+bundler_args: --without tool
+rvm:
+  - 2.2.0
+  - jruby
+  - rbx
+matrix:
+  allow_failures:
+    - rvm: rbx
+    - rvm: jruby

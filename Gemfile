@@ -26,6 +26,11 @@ gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'simple_form'
+gem "paperclip", "~> 4.3"
+gem 'youtube_it', '~> 2.4', '>= 2.4.2'
+gem 'inherited_resources'
+gem 'acts_as_commentable'
+gem 'link_thumbnailer'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails raddit: development" uuid="3e91a6e1-63c5-429f-a065-902b1c258f57">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails raddit: test" uuid="854316b2-6ef0-43ab-8d96-adcbe2c0b07b">
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
